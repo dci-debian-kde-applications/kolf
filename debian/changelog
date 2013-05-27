@@ -1,6 +1,7 @@
 kolf (4:4.10.3-1) UNRELEASED; urgency=low
 
   * New upstream release.
+  * Update kolf.install file.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 14 May 2013 10:42:22 +0200
 
