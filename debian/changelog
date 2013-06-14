@@ -1,10 +1,10 @@
-kolf (4:4.10.4-1) UNRELEASED; urgency=low
+kolf (4:4.10.4-1) experimental; urgency=low
 
   * New upstream release.
   * Update kolf.install file.
   * Update vcs fields.
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 08 Jun 2013 18:36:56 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 14 Jun 2013 10:54:19 +0200
 
 kolf (4:4.10.2-1) experimental; urgency=low
 
