@@ -25,7 +25,7 @@ License: Zlib
  including commercial applications, and to alter it and redistribute it
  freely, subject to the following restrictions:
  .
- 1. The origin of this software must not be misrepresented; you must not 
+ 1. The origin of this software must not be misrepresented; you must not
  claim that you wrote the original software. If you use this software
  in a product, an acknowledgment in the product documentation would be
  appreciated but is not required.
@@ -38,15 +38,15 @@ Copyright: 2010, Stefan Majewsky <majewsky@gmx.net>
 License: LGPL-2
 Comment: Embedded Project Tagaro code
  This directory contains code from Project Tagaro, which has been copied into
- the source tree of Kolf to ease porting to KGameRenderer, while Tagaro is not 
+ the source tree of Kolf to ease porting to KGameRenderer, while Tagaro is not
  stable.
  .
- The given code has been copied from the libtagaro repository, which was, at the 
+ The given code has been copied from the libtagaro repository, which was, at the
  time of this writing, available from git://git.kde.org/libtagaro.git. The code
  was taken from the directories tagaro/interface/ and tagaro/graphics/ at commit
  a137e9b266dba51b3cb9fcbf32dd8a2a3a5976d5.
  .
- Code that integrates with Tagaro::MessageOverlay has been removed, and 
+ Code that integrates with Tagaro::MessageOverlay has been removed, and
  Tagaro::Renderer and Tagaro::RendererClient have been replaced by KGameRenderer.
 
 Files: ball.cpp
@@ -129,7 +129,7 @@ License: GPL-2+
  .
  This package is distributed in the hope that it will be useful,
  but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  GNU General Public License for more details.
  .
  You should have received a copy of the GNU General Public License
@@ -184,4 +184,3 @@ License: LGPL-2+
  .
  On Debian systems, the complete text of the GNU Library General Public
  License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
-
