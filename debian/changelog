@@ -1,3 +1,9 @@
+kolf (4:14.11.90-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 14 Nov 2014 18:10:33 +0100
+
 kolf (4:4.14.1-1) unstable; urgency=medium
 
   * New upstream release (4.14.1).
@@ -10,6 +16,54 @@ kolf (4:4.14.0-1) unstable; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Sat, 23 Aug 2014 02:13:48 +0200
 
+kolf (4:4.14.2-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 10 Oct 2014 05:37:32 -0700
+
+kolf (4:4.14.1-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Mon, 22 Sep 2014 17:23:52 +0200
+
+kolf (4:4.14.0-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 20 Aug 2014 13:16:16 +0200
+
+kolf (4:4.13.97-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release RC
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Fri, 01 Aug 2014 16:58:40 +0200
+
+kolf (4:4.13.95-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Wed, 30 Jul 2014 18:25:38 +0200
+
+kolf (4:4.13.90-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Thu, 24 Jul 2014 23:19:32 +0200
+
+kolf (4:4.13.2-0ubuntu1) utopic; urgency=medium
+
+  * new upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 18 Jun 2014 12:02:59 +0100
+
+kolf (4:4.13.1-1ubuntu1) utopic; urgency=medium
+
+  * Merge with debian, no remaining changes
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 13 Jun 2014 16:09:49 +0200
+
 kolf (4:4.13.1-1) unstable; urgency=medium
 
   * New upstream release.
@@ -17,11 +71,41 @@ kolf (4:4.13.1-1) unstable; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 23 May 2014 10:14:03 +0200
 
+kolf (4:4.13.0-0ubuntu1) trusty; urgency=medium
+
+  * New upstream KDE Software Compilation release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 10 Apr 2014 22:09:10 +0100
+
+kolf (4:4.12.97-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release candidate
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Wed, 02 Apr 2014 11:33:55 +0200
+
+kolf (4:4.12.95-0ubuntu1) trusty; urgency=medium
+
+  * New upstream beta release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Sun, 23 Mar 2014 12:35:17 +0100
+
+kolf (4:4.12.90-0ubuntu1) trusty; urgency=medium
+
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 19 Mar 2014 11:05:44 +0000
+
 kolf (4:4.12.4-1) unstable; urgency=medium
 
   * New upstream release.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 28 Apr 2014 12:24:16 +0200
+
+kolf (4:4.12.3-0ubuntu1) trusty; urgency=medium
+
+  * New upstream bugfix release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Tue, 04 Mar 2014 20:55:36 +0100
 
 kolf (4:4.12.2-1) experimental; urgency=medium
 
@@ -31,6 +115,42 @@ kolf (4:4.12.2-1) experimental; urgency=medium
   * Bump kde-sc-dev-latest build dependency.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 10 Feb 2014 11:31:49 +0100
+
+kolf (4:4.12.2-0ubuntu1) trusty; urgency=medium
+
+  * New upstream bugfix release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 05 Feb 2014 00:07:50 +0000
+
+kolf (4:4.12.1-0ubuntu1) trusty; urgency=low
+
+  * New upstream bugfix release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Thu, 16 Jan 2014 08:23:46 +0000
+
+kolf (4:4.12.0-0ubuntu1) trusty; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 18 Dec 2013 17:16:23 +0000
+
+kolf (4:4.11.97-0ubuntu1) trusty; urgency=low
+
+  * New upstream RC release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 29 Nov 2013 13:17:01 +0000
+
+kolf (4:4.11.95-0ubuntu1) trusty; urgency=low
+
+  * New upstream beta release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Mon, 25 Nov 2013 18:14:09 +0100
+
+kolf (4:4.11.80-0ubuntu1) trusty; urgency=low
+
+  * New upstream beta release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Sat, 23 Nov 2013 17:45:20 +0100
 
 kolf (4:4.11.3-1) unstable; urgency=low
 
@@ -44,6 +164,52 @@ kolf (4:4.11.2-1) experimental; urgency=low
   * New upstream release.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 07 Oct 2013 15:29:57 +0200
+
+kolf (4:4.11.2-0ubuntu1) saucy; urgency=low
+
+  * New upstream bugfix release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 30 Sep 2013 14:32:20 +0100
+
+kolf (4:4.11.1-0ubuntu1) saucy; urgency=low
+
+  * New upstream bugfix release.
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 06 Sep 2013 22:27:22 +0100
+
+kolf (4:4.11.0-0ubuntu1) saucy; urgency=low
+
+  [ Howard Chan ]
+  * New upstream release
+
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 14 Aug 2013 00:22:21 +0100
+
+kolf (4:4.10.97-0ubuntu1) saucy; urgency=low
+
+  * New upstream RC 2 release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 26 Jul 2013 19:42:54 +0100
+
+kolf (4:4.10.95-0ubuntu1) saucy; urgency=low
+
+  * New upstream RC release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 19 Jul 2013 12:32:46 +0000
+
+kolf (4:4.10.90-0ubuntu1) saucy; urgency=low
+
+  * New upstream bet release
+
+ -- Michał Zając <quintasan@kubuntu.org>  Fri, 28 Jun 2013 18:18:50 +0100
+
+kolf (4:4.10.80-0ubuntu1) saucy; urgency=low
+
+  * New upstream release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 21 Jun 2013 01:26:55 +0100
 
 kolf (4:4.10.5-1) unstable; urgency=low
 
@@ -59,9 +225,69 @@ kolf (4:4.10.4-1) experimental; urgency=low
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 14 Jun 2013 10:54:19 +0200
 
+kolf (4:4.10.4-0ubuntu1) saucy-proposed; urgency=low
+
+  [ Rohan Garg ]
+  * New upstream bugfix release
+
+  [ Jonathan Riddell ]
+  * add not-installed
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 07 Jun 2013 00:38:00 +0100
+
+kolf (4:4.10.3-0ubuntu1) saucy; urgency=low
+
+  * New upstream release
+  * Merge with Debian
+  * Update kolf.install
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 23 May 2013 11:04:47 +0000
+
 kolf (4:4.10.2-1) experimental; urgency=low
 
   * First release of kdegames after being split by upstream.
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 10 Apr 2013 17:08:35 +0200
+
+kolf (4:4.10.2-0ubuntu1) raring; urgency=low
+
+  * New upstream bugfix release
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sun, 31 Mar 2013 14:53:16 +0200
+
+kolf (4:4.10.1-0ubuntu1) raring-proposed; urgency=low
+
+  * New upstream bugfix release
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Tue, 05 Mar 2013 16:34:17 +0000
+
+kolf (4:4.10.0-0ubuntu1) raring-proposed; urgency=low
+
+  * New upstream release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 06 Feb 2013 11:59:18 +0000
+
+kolf (4:4.9.98-0ubuntu1) raring-proposed; urgency=low
+
+  * New upstream release candidate
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 18 Jan 2013 15:47:07 +0000
+
+kolf (4:4.9.97-0ubuntu1) raring; urgency=low
+
+  * New upstream release candidate
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Thu, 03 Jan 2013 22:39:30 +0100
+
+kolf (4:4.9.95-0ubuntu1) raring; urgency=low
+
+  * New upstream RC release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Dec 2012 23:35:39 +0000
+
+kolf (4:4.9.90-0ubuntu1) raring; urgency=low
+
+  * Initial release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Dec 2012 18:00:58 +0000
 
