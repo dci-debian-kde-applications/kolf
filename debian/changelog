@@ -1,6 +1,8 @@
-kolf (4:14.11.90-0ubuntu1) UNRELEASED; urgency=medium
+kolf (4:14.11.90-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
+  * Merge with debian, packaging now in Debian git, remaining changes:
+   - add not-installed file
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 14 Nov 2014 18:10:33 +0100
 
