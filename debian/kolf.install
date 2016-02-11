@@ -1,5 +1,3 @@
-../icons/kolf-16.xpm /usr/share/pixmaps
-../icons/kolf.xpm /usr/share/pixmaps
 usr/games/kolf
 usr/lib/libkolfprivate.so.4*
 usr/share/applications/kde4/kolf.desktop
