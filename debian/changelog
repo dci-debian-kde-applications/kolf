@@ -1,9 +1,9 @@
-kolf (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+kolf (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   * New upstream release
   * Merged with Debian 
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 06 Feb 2016 17:30:48 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 10:55:42 +0100
 
 kolf (4:15.08.3-1) unstable; urgency=medium
 
