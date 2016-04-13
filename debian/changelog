@@ -1,3 +1,11 @@
+kolf (4:15.12.3-1~1.gbpa06f6d) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @a06f6d350fe13af83e4924b752b3b73c892c4c56 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:45:13 +0200
+
 kolf (4:15.08.3-1) unstable; urgency=medium
 
   * New upstream release (15.08.3).
