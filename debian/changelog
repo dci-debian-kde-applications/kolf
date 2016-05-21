@@ -1,10 +1,6 @@
-kolf (4:16.04.0-1~2.gbpd44f69) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @d44f69e26e8910f15f6e716f470fc69797cc4dc2 **
+kolf (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @9486bf679d5eca91398c686cad43745e11086622 **
-
   * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
@@ -13,7 +9,7 @@ kolf (4:16.04.0-1~2.gbpd44f69) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:44:18 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 20:25:27 +0200
 
 kolf (4:15.08.3-1) unstable; urgency=medium
 
