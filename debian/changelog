@@ -7,6 +7,10 @@ kolf (4:17.08.3-0r1) UNRELEASED; urgency=medium
   * Remove Fathi Boudra from Uploaders, as requested by the MIA team.
     (Closes: #879357)
   * Switch khelpcenter4 recommend to khelpcenter.
+  * Stop forcing debian/tmp as local installation directory, installing
+    everything to the final location
+    - drop kolf.install, no more useful now
+    - drop not-installed, no more needed now
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 31 Dec 2017 17:48:44 +0100
 

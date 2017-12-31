@@ -6,4 +6,6 @@ override_dh_auto_configure:
 	$(overridden_command) -- -DBIN_INSTALL_DIR=/usr/games
 
 override_dh_auto_install:
-	$(overridden_command) --destdir=debian/tmp
+	$(overridden_command)
+	# do not ship development stuff
+	find debian/kolf -name '*.so' -type l -delete
