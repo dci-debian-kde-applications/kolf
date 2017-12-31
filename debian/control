@@ -23,7 +23,7 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kolf.git
 Package: kolf
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: miniature golf game
  Kolf is a miniature golf game for one to ten players.  A variety of courses
  are included, as well as an editor to create new courses.
